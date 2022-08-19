@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rivek Raj Tamang</h1>
 <h3 align="center">A passionate Tech Enthusiast , Cyber Security Enthusiast, CTF Player and a Computer Geek.</h3>
 
-- 🔭 I’m currently working on [RKey v1.0](https://github.com/Rivek619/Rkey)
+- 🔭 I’m currently working on [portfolio](https://github.com/Rivek619/portfolio)
 
 - 🌱 I’m currently learning **Cyber Security, Ethical Hacking and preparing for CEHv11**
 
