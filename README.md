@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/Rivek619/portfolio)
 
-- 🌱 I’m currently learning **CEHv11**
+- 🌱 I’m currently preparing for **CEHv11**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rivek619](https://github.com/Rivek619)
 
