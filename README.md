@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rivek Raj Tamang</h1>
-<h3 align="center">A passionate Tech Enthusiast , Cyber Security Enthusiast and a Computer Geek.</h3>
+<h3 align="center">A passionate Tech Enthusiast , Cyber Security Practitioner and a Computer Geek.</h3>
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/Rivek619/portfolio)
 
-- 🌱 I’m currently preparing for **CEHv11**
+- 🌱 Certifications **CEHv11**, **Google Professional Cybersecurity**, **PAH**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rivek619](https://github.com/Rivek619)
 
