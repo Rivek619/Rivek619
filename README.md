@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rivek Raj Tamang</h1>
-<h3 align="center">A passionate Tech Enthusiast , Cyber Security Practitioner and a Computer Geek.</h3>
+<h3 align="center">I am an Ethical Hacker, Bug Hunter Cyber Security Practitioner and a Computer Geek.</h3>
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/Rivek619/portfolio)
 
