@@ -40,12 +40,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/RivuDon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RivuDon" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rivek619&show_icons=true&locale=en" alt="rivek619" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rivek619&" alt="rivek619" /></p>
-
-
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/RivuDon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RivuDon" /></a></p><br><br>
