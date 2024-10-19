@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rivek Raj Tamang (RivuDon)</h1>
 <h3 align="center">I am an Ethical Hacker, Bug Hunter, Cyber Security Practitioner and a Computer Geek <br> from Sikkim, India. </h3>
+<br><br>
 
 <img align="right" alt="hacker" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ0ZnN0em43bDBjaWU5YXY0dHB6NDNoYzlzMTRwcWF4YnQ2ZWQ4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mOWLBeH5XoXecgSEcp/giphy.gif">
 
