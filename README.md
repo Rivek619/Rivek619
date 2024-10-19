@@ -1,3 +1,5 @@
+<img alt="hacker" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ0ZnN0em43bDBjaWU5YXY0dHB6NDNoYzlzMTRwcWF4YnQ2ZWQ4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mOWLBeH5XoXecgSEcp/giphy.gif](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=790b761183kqusy3zb9xsklmgdao93tzkxclo8vy9tbri32o&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+
 <h1 align="center">Hi 👋, I'm Rivek Raj Tamang (RivuDon)</h1>
 <h3 align="center">I am an Ethical Hacker, Bug Hunter, Cyber Security Practitioner and a Computer Geek from Sikkim, India.</h3>
 <img align="right" alt="hacker" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ0ZnN0em43bDBjaWU5YXY0dHB6NDNoYzlzMTRwcWF4YnQ2ZWQ4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mOWLBeH5XoXecgSEcp/giphy.gif">
