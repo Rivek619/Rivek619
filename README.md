@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **cybersecrivek@gmail.com**, **[https://linkedin.com/in/rivektamang](https://linkedin.com/in/rivektamang)**
 
-- 📄 Know about my experiences [https://rivek619.github.io/portfolio/Rivek_Resume.pdf](https://rivek619.github.io/portfolio/Rivek_Resume.pdf)
-
+- 📄 Know about my experiences [https://rivek619.github.io/portfolio/Rivek_Resume.pdf](https://rivek619.github.io/portfolio/Rivek_Resume.pdf](https://rivek619.github.io/myportfolio/)
 - ⚡ Fun fact **I am also a Fitness Freak and a Musician.**
 
 ### Blogs posts
